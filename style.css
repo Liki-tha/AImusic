@@ -18,5 +18,6 @@ canvas{
     border-style: double;
     border-color: aqua;
     box-shadow: 5px 5px 5px gray;
-    margin-top: 150px;
+    margin-top: 85px;
+    border-width: 5px;
 }
